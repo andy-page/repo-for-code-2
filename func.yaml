@@ -1,6 +1,6 @@
 schema_version: 20180708
-name: editdeployflow
-version: 0.0.5
+name: my_new_func_123
+version: 0.0.12
 runtime: python3.6
 build_image: fnproject/python:3.6-dev
 run_image: fnproject/python:3.6
