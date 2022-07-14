@@ -1,6 +1,6 @@
 schema_version: 20180708
-name: myfunction33
-version: 0.0.12
+name: myfunction0000
+version: 0.0.13
 runtime: python3.6
 build_image: fnproject/python:3.6-dev
 run_image: fnproject/python:3.6
